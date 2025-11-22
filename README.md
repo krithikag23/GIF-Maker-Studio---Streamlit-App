@@ -4,7 +4,6 @@ A fun and offline GIF creation tool using Python!
 Turn your **images or video clips** into animated GIFs instantly ⚡
 
 ---
-
 ## ✨ Features
 - Upload multiple images → Auto GIF stitching
 - Upload video → Convert frames to GIF
