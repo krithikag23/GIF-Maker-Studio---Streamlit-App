@@ -11,7 +11,7 @@ Turn your **images or video clips** into animated GIFs instantly ⚡
   - Frames per second (FPS)
   - GIF width (auto height)
 - Download button included
-- Works **offline** — no API required!
+
 
 ---
 
