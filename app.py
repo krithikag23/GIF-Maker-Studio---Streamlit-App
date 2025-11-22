@@ -7,6 +7,10 @@ import tempfile
 st.set_page_config(page_title="GIF Maker Studio", page_icon="🎥", layout="centered")
 
 
+
+
+
+
 st.title("🎥 GIF Maker Studio")
 st.write("Create GIFs from images or videos — offline & instant! 🚀")
 
