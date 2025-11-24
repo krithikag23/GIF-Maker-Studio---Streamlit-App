@@ -12,7 +12,7 @@ Perfect for content creation, memes, social media posts, or demo videos - — al
   - GIF width (auto height)
 - GIF preview inside app (animated)
 - One-click download button
-- No APIs or internet required 🌐❌
+- No APIs or internet required 
 
 
 ---
