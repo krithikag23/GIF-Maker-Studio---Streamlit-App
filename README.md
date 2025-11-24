@@ -16,6 +16,8 @@ Perfect for content creation, memes, social media posts, or demo videos - — al
 
 ---
 ## 🎯 Why This Project?
+GIFs are widely used in:
+- Social Media & Marketing 📱
 
 ---
 
