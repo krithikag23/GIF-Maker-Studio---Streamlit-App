@@ -2,7 +2,7 @@
 
 A fun and offline GIF creation tool using Python!  
 Turn your **images or video clips** into animated GIFs instantly ⚡
-Perfect for content creation, memes, social media posts, or demo videos
+Perfect for content creation, memes, social media posts, or demo videos - — all done locally and securely.
 ---
 ## ✨ Features
 - Upload multiple images → Auto GIF stitching
