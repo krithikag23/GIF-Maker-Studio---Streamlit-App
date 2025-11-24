@@ -11,6 +11,7 @@ Perfect for content creation, memes, social media posts, or demo videos - — al
   - Frames per second (FPS)
   - GIF width (auto height)
 - GIF preview inside app (animated)
+- One-click download button
 
 
 ---
