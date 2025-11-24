@@ -19,7 +19,8 @@ Perfect for content creation, memes, social media posts, or demo videos - — al
 GIFs are widely used in:
 - Social Media & Marketing 
 - UI/UX demos for projects 
-- Gaming & Animation 
+- Gaming & Animation
+- Teaching content
 
 ---
 
